@@ -1,0 +1,16 @@
+.shop-container{
+    display: flex;
+    margin-top: 30px;
+}
+.biodata-container{
+    width: 70%;
+}
+.cart-container{
+    width: 25%;
+    margin-left: 5%;
+    box-shadow: 0px 0px 16px 10px #e9e9e9;
+    height: 265px;
+}
+.cart-container h2{
+    text-align: center;
+}
